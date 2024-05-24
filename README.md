@@ -11,5 +11,5 @@
 </div>
 <br><br>
 
-Estudando desenvolvimento front-end ReactJS
+Estudando desenvolvimento Front-end
 
